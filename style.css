@@ -1,5 +1,5 @@
 body {
-    background: green;
+    background: rgb(139, 103, 32);
     margin: 0;
     padding: 0;
   }
@@ -38,7 +38,7 @@ body {
 }
 
 input[type="submit"], button {
-  background-color: rgb(30, 151, 54);
+  background-color: rgb(199, 175, 147);
   color: white;
   font-size: 18px;
   border-radius: 6px;
